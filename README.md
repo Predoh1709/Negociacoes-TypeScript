@@ -1,14 +1,11 @@
 # Negociacoes-TypeScript
-Projeto da formação TypeScript da Alura
+## Projeto da formação TypeScript da Alura
 
-terminal vs-code
-npm i 
+## Terminal vs-code
+* npm i 
+* npm run start
 
-npm run start
-
-new terminal in vs-code:
-cd servidor-api
-
-npm i
-
-npm start
+## new terminal in vs-code:
+* cd servidor-api
+* npm i
+* npm start
